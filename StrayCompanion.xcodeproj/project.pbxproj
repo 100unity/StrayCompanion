@@ -26,6 +26,7 @@
 		A64BD8FF240E783D00225420 /* DeleteAllPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BD8FE240E783D00225420 /* DeleteAllPacket.swift */; };
 		A64BD901240F06BD00225420 /* SequenceExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BD900240F06BD00225420 /* SequenceExtensions.swift */; };
 		A65E8DD42426F70400CEF347 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A65E8DD32426F70400CEF347 /* .gitignore */; };
+		A65E8DD62426F7EF00CEF347 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A65E8DD52426F7EF00CEF347 /* README.md */; };
 		A6B9582F240C91E200F820F2 /* Packet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6B9582E240C91E200F820F2 /* Packet.swift */; };
 		A6B95837240D78D500F820F2 /* AddOnePacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6B95836240D78D500F820F2 /* AddOnePacket.swift */; };
 		A6B95839240D7AE200F820F2 /* ReceivedPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6B95838240D7AE200F820F2 /* ReceivedPacket.swift */; };
@@ -77,6 +78,7 @@
 		A64BD8FE240E783D00225420 /* DeleteAllPacket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAllPacket.swift; sourceTree = "<group>"; };
 		A64BD900240F06BD00225420 /* SequenceExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceExtensions.swift; sourceTree = "<group>"; };
 		A65E8DD32426F70400CEF347 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A65E8DD52426F7EF00CEF347 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A6B9582E240C91E200F820F2 /* Packet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Packet.swift; sourceTree = "<group>"; };
 		A6B95836240D78D500F820F2 /* AddOnePacket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOnePacket.swift; sourceTree = "<group>"; };
 		A6B95838240D7AE200F820F2 /* ReceivedPacket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceivedPacket.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				A60252D324092F4000AD5EEB /* StrayCompanionUITests */,
 				A60252B024092F3C00AD5EEB /* Products */,
 				A65E8DD32426F70400CEF347 /* .gitignore */,
+				A65E8DD52426F7EF00CEF347 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -333,6 +336,7 @@
 			files = (
 				A65E8DD42426F70400CEF347 /* .gitignore in Resources */,
 				A60252BF24092F3F00AD5EEB /* LaunchScreen.storyboard in Resources */,
+				A65E8DD62426F7EF00CEF347 /* README.md in Resources */,
 				A60252BC24092F3F00AD5EEB /* Preview Assets.xcassets in Resources */,
 				A60252B924092F3F00AD5EEB /* Assets.xcassets in Resources */,
 			);
